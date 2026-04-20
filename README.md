@@ -116,5 +116,5 @@ Submitted to the **Microsoft Fabric Semantic Link Developer Experience Competiti
 
 ## 👤 Author
 
-**Praful Potphode** · Microsoft Fabric Community Super User · [LinkedIn([https://www.linkedin.com/in/praful-p-912349241/)]
+**Praful Potphode** · Microsoft Fabric Community Super User · [LinkedIn]([https://www.linkedin.com/in/praful-p-912349241/)
       
